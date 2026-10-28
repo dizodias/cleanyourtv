@@ -151,4 +151,14 @@
     <!-- Cinematic top shelf (cinematic_home): the line under the focused dock app's name; %1$s is when it was
          last opened, e.g. "5 minutes ago" or "yesterday, 9:40 pm". -->
     <string name="last_opened">Last opened %1$s</string>
+    <string name="glance_dollar_cd" translatable="false">Dólar a %1$s, %2$s %3$s</string>
+    <string name="glance_weather_cd" translatable="false">%1$s em Rio do Sul</string>
+    <string name="glance_chart_title" translatable="false">Dólar nas últimas 24 horas</string>
+    <string name="glance_chart_now" translatable="false">%1$s · %2$s no dia</string>
+    <string name="glance_chart_empty" translatable="false">Sem dados das últimas 24 horas</string>
+    <string name="glance_chart_loading" translatable="false">Carregando a cotação…</string>
+    <string name="glance_chart_close" translatable="false">Fechar</string>
+    <string name="glance_up" translatable="false">subiu</string>
+    <string name="glance_down" translatable="false">caiu</string>
+    <string name="glance_flat" translatable="false">estável</string>
 </resources>
